@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FeiginService/FeiginService.iml" filepath="$PROJECT_DIR$/FeiginService/FeiginService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2.iml" filepath="$PROJECT_DIR$/chapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaClient/eurekaClient.iml" filepath="$PROJECT_DIR$/eurekaClient/eurekaClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaServer/eurekaServer.iml" filepath="$PROJECT_DIR$/eurekaServer/eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonRestTemplate/ribbonRestTemplate.iml" filepath="$PROJECT_DIR$/ribbonRestTemplate/ribbonRestTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulService/zuulService.iml" filepath="$PROJECT_DIR$/zuulService/zuulService.iml" />
+    </modules>
+  </component>
+</project>
